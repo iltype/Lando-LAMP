@@ -18,14 +18,10 @@ This repository contains the Lando configuration file (.lando.yml) that I use fo
 
 ## Install
 
----
-
 1. Download and install [Docker desktop](https://www.docker.com/products/docker-desktop/)
 2. Download and install [lando](https://github.com/lando/lando/releases)
 
 ## Usage
-
----
 
 1. Start Docker Desktop
 2. lando start
